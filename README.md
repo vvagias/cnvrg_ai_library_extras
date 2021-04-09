@@ -13,7 +13,7 @@ cnvrg library import
 
 That's all you will see the component in your AI Library and can now use these from your workspace or in Flows you create. 
 
-
+![alt text](https://github.com/vvagias/cnvrg_ai_library_extras/blob/main/flows.png?raw=true)
 This README describes the ... TEMPLATE ...
 
 ## How It Works
