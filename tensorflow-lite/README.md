@@ -32,5 +32,6 @@ example
 python3 convert.py \
        --model=my_lite_model\
        --input=current_model
-       
-        
+```
+
+![alt text](hhttps://github.com/vvagias/cnvrg_ai_library_extras/blob/main/tensorflow-lite/tf_lite.png?raw=true)
