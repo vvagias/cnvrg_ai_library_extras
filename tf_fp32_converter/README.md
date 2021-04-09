@@ -1,6 +1,9 @@
 ## Tensorflow h5 --> FP32 Model Converter
 ### FP32 optimized model from your .h5 weights file
-
+ 
+![alt text](https://github.com/vvagias/cnvrg_ai_library_extras/blob/main/tf_fp32_converter/tf_fp32_ailib.png?raw=true)
+ 
+ 
 Simply specify: 
 
 1. Input Model 
@@ -33,4 +36,8 @@ python3 convert.py \
        --model=my_fp32_model\
        --input=current_model
        
-        
+ ```
+ 
+  
+ ![alt text](https://github.com/vvagias/cnvrg_ai_library_extras/blob/main/tf_fp32_converter/tf_fp32.png?raw=true)
+
