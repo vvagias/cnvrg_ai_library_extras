@@ -7,7 +7,9 @@ This README describes the Question Answering demo application that uses a Squad-
 Upon the start-up the demo application reads command line parameters and loads a network to Inference engine.
 It also fetch data from the user-provided url to populate the "context" text.
 The text is then used to search answers for user-provided questions.
-![alt text](https://github.com/vvagias/cnvrg_ai_library_extras/main/cnvrg_bert_demo/bert.png?raw=true)
+
+
+![alt text](hhttps://github.com/vvagias/cnvrg_ai_library_extras/blob/main/cnvrg_bert_demo/bert.png?raw=true)
 
 ## Running
 
