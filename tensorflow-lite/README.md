@@ -14,7 +14,7 @@ Upon the start-up the application takes parameters and converts the input model 
 
 Running the application with the `-h` option yields the following usage message:
 ```
-python3 question_answering_demo.py -h
+python3 convert.py -h
 ```
 The command yields the following usage message:
 ```
