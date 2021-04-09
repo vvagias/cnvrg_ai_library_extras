@@ -6,10 +6,10 @@ Each directory is a seperate component.
 
 Add to your personal cnvrg.io environment by simply cloning this project and for each component you wish to add 
 
-''' 
+```
 cd directory_of_component
 cnvrg library import
-'''
+```
 
 That's all you will see the component in your AI Library and can now use these from your workspace or in Flows you create. 
 
