@@ -1,0 +1,15 @@
+---
+title: AI Library Component Python Template
+command: python3 main.py
+description: " -  Intel Bert Question Answer Demo."
+version: 1.0.0
+docker_images: cnvrg
+compute: small
+data_type: ipynb
+icon: tensorflow
+
+arguments:
+  sometxt:
+    value: 'sometxt.txt'
+    type: categorical
+
