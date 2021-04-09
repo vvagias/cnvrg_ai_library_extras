@@ -9,7 +9,7 @@ It also fetch data from the user-provided url to populate the "context" text.
 The text is then used to search answers for user-provided questions.
 
 
-![alt text](hhttps://github.com/vvagias/cnvrg_ai_library_extras/blob/main/cnvrg_bert_demo/bert.png?raw=true)
+![alt text](https://github.com/vvagias/cnvrg_ai_library_extras/blob/main/cnvrg_bert_demo/bert.png?raw=true)
 
 ## Running
 
