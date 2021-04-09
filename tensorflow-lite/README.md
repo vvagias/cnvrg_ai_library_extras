@@ -33,5 +33,7 @@ python3 convert.py \
        --model=my_lite_model\
        --input=current_model
 ```
-
+![alt text](https://github.com/vvagias/cnvrg_ai_library_extras/blob/main/tensorflow-lite/tf_lite_ailib.png?raw=true)
 ![alt text](https://github.com/vvagias/cnvrg_ai_library_extras/blob/main/tensorflow-lite/tf_lite.png?raw=true)
+
+
